@@ -1,5 +1,5 @@
 # reddit-to-vk-bot
-A bot that i'm developing to post text posts from reddit to vk
+A bot that i'm developing to post text posts from reddit to vk.
 Can currently:
     +post from my account
     +translate the post
