@@ -1,0 +1,3 @@
++ Make it to work with the post link
++ Browse through multiple posts (avoiding ads)
++ Work with pictures
