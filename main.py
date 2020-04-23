@@ -1,6 +1,8 @@
+from bot_class import RedditBot
+from time import sleep
 cache_thoughts = []
 SUBREDDIT = 'showerthoughts'
-Bot = InstaBot()
+Bot = RedditBot()
 while True:
     op_user, thought, upvotes, link = Bot.get_from_reddit(SUBREDDIT)
     if thought not in cache_thoughts:
